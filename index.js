@@ -1,2 +1,3 @@
 console.log("Hello World!");
-console.log("My Week 1 Git Workflow Project");
+console.log("Welcome to my first Git project.");
+console.log("Learning Node.js and Git.");
